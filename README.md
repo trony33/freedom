@@ -1,2 +1,2 @@
-# improved-sniffle
+# freedom
 freedom
